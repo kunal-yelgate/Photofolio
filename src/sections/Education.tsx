@@ -4,7 +4,7 @@ import { Button } from '@/components/ui/button';
 
 const educationData = [
   {
-    degree: 'B.E. in Computer Science & Engineering',
+    degree: 'B.tech. in Computer Science & Engineering',
     institution: 'SGGSIE&T, Nanded',
     location: 'Nanded',
     duration: '2022 – Present',

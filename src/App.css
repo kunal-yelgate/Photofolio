@@ -1,0 +1,23 @@
+/* App-specific styles */
+
+/* Ensure smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom selection color */
+::selection {
+  background: rgba(0, 217, 255, 0.3);
+  color: white;
+}
+
+/* Focus visible styles */
+*:focus-visible {
+  outline: 2px solid rgba(0, 217, 255, 0.5);
+  outline-offset: 2px;
+}
+
+/* Prevent horizontal scroll */
+body {
+  overflow-x: hidden;
+}
